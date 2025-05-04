@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İMDB Project</title>
+    <link rel="stylesheet" href="imdb.css">
+    <link rel="stylesheet" href="background.css">
+    <script type="text/javascript" src="container.js" defer></script>
+    <script type="text/javascript" src="video.js" defer></script>
+    <script type="text/javascript" src="search.js" defer></script>
+    <script type="text/javascript" src="button.js" defer></script>
+    <script type="text/javascript" src="footer.js" defer></script>
+    <script type="text/javascript" src="modal_script.js" defer></script>
+    <script src="image.js"></script>
+</head>
+<body class="gradient-background">
+    <header>
+        <nav class="menu">
+         
+            <ul class="menu-items">
+                <li><a href="imdb.html">Home Page</a></li>
+                <li><a href="imdb2.html">Movies</a></li>
+                <li><a href="imdb3.html">Tv Shows</a></li>
+                <li><a href="imdb4.html">About</a></li>
+                <li><a href="favorites.html">Favorilerim</a></li>
+            </ul>
+            <div class="searchBox">
+
+                <input class="searchInput"type="text" name="" placeholder="Search">
+                <button class="searchButton" href="#">
+                    <i class="material-icons">
+                        <img src="images/search.png" alt="search">
+                    </i>
+                </button>
+
+            </div>
+        </nav>
+    </header>
+    <div class="container" style="position: relative;">
+        <video id="bannerVideo" autoplay muted>
+            <source src="Video\kingsman.mp4" type="video/mp4">
+            <source src="Video\cars3.mp4" type="video/mp4">
+            <source src="Video\mib.mp4" type="video/mp4">
+        </video>
+    </div>
+
+    <div class="dot-container">
+        <span class="dot" data-index="0"></span>
+        <span class="dot" data-index="1"></span>
+        <span class="dot" data-index="2"></span>
+    </div>
+
+    <div class="container2 grid-gallery">
+        <div class="box2"><img src="images/5.webp" class="resim5" alt="5"></div>
+        <div class="box2"><img src="images/6.webp" class="resim6" alt="6"></div>
+        <div class="box2"><img src="images/7.jpg" class="resim7" alt="7"></div>
+        <div class="box2"><img src="images/8.jpg" class="resim8" alt="8"></div>
+        <div class="box2"><img src="images/9.jpg" class="resim9" alt="9"></div>
+        <div class="box2"><img src="images/10.jpg" class="resim10" alt="10"></div>
+        <div class="box2"><img src="images/11.jpg" class="resim11" alt="11"></div>
+        <div class="box2"><img src="images/12.jpg" class="resim12" alt="12"></div>
+        <div class="box2"><img src="images/13.jpg" class="resim13" alt="13"></div>
+        <div class="box2"><img src="images/14.jpg" class="resim14" alt="14"></div>
+        <div class="box2"><img src="images/15.jpg" class="resim15" alt="15"></div>
+        <div class="box2"><img src="images/16.jpg" class="resim16" alt="16"></div>
+    </div>
+
+    <div class="footer">
+        <div class="person">
+            <img src="images/will_smith.jpg" alt="will smith">
+            <div class="name">Will Smith</div>
+            <div class="age">56</div>
+        </div>
+        <div class="person">
+            <img src="images/sasha.jpg" alt="sasha barresse">
+            <div class="name">Sasha Barrese</div>
+            <div class="age">44</div>
+        </div>
+        <div class="person">
+            <img src="images/jim_carry.jpg" alt="Jim Carry">
+            <div class="name">Jim Carrey</div>
+            <div class="age">63</div>
+        </div>
+        <div class="person">
+            <img src="images/tom.png" alt="Tom Cruise">
+            <div class="name">Tom Cruise</div>
+            <div class="age">62</div>
+        </div>
+        <div class="person">
+            <img src="images/dwayne.jpg" alt="Dwayne Johnson">
+            <div class="name">Dwayne Johnson</div>
+            <div class="age">52</div>
+        </div>
+        <div class="person">
+            <img src="images/scarlet.webp" alt="Scarlet Johansson">
+            <div class="name">Scarlet Johansson</div>
+            <div class="age">40</div>
+        </div>
+        <div class="person">
+            <img src="images/robert.webp" alt="Robert Downey Jr">
+            <div class="name">Robert Downey Jr</div>
+            <div class="age">60</div>
+        </div>
+        <div class="person">
+            <img src="images/megan.jpg" alt="Megan Fox">
+            <div class="name">Megan Fox</div>
+            <div class="age">38</div>
+        </div>
+        <div class="person">
+            <img src="images/sarah.webp" alt="Sarah Wayne Callies">
+            <div class="name">Sarah Wayne Callies</div>
+            <div class="age">47</div>
+        </div>
+    </div>
+
+    <div class="alt-container">
+        <p>2025-2026 Bütün Hakları Saklıdır</p>
+    </div>
+    
+</body>
+</html>

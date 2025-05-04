@@ -1,0 +1,518 @@
+{
+  "The Shawshank Redemption": {
+    "description": "İki mahkum yıllar boyunca dostluk kurar, teselliyi ve sonunda kurtuluşu sıradan iyiliklerde bulur.",
+    "director": "Frank Darabont",
+    "writer": "Stephen King (novel), Frank Darabont (screenplay)",
+    "stars": "Tim Robbins, Morgan Freeman, Bob Gunton"
+  },
+  "The Good, the Bad and the Ugly": {
+    "description": "Bir ödül avcılığı düzeni, iki adamı altın dolu bir mezarlıkta gömülü serveti bulmak için üçüncü bir adama karşı geçici bir ittifaka zorlar.",
+    "director": "Sergio Leone",
+    "writer": "Luciano Vincenzoni, Sergio Leone",
+    "stars": "Clint Eastwood, Eli Wallach, Lee Van Cleef"
+  },
+  "Star Wars: The Empire Strikes Back": {
+    "description": "İsyancılar İmparatorluk tarafından acımasızca yenilgiye uğratıldıktan sonra, Luke Skywalker Jedi eğitimi için Yoda ile çalışmaya başlar.",
+    "director": "Irvin Kershner",
+    "writer": "Leigh Brackett, Lawrence Kasdan, George Lucas",
+    "stars": "Mark Hamill, Harrison Ford, Carrie Fisher"
+  },
+  "The Matrix": {
+    "description": "Bir bilgisayar korsanı, gerçekliğin asıl doğasını ve bu gerçekliği kontrol edenlere karşı savaştaki rolünü keşfeder.",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "writer": "Lana Wachowski, Lilly Wachowski",
+    "stars": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss"
+  },
+  "Inception": {
+    "description": "Rüya paylaşım teknolojisiyle kurumsal sırları çalan bir hırsız, bir CEO'nun zihnine fikir yerleştirme görevi alır.",
+    "director": "Christopher Nolan",
+    "writer": "Christopher Nolan",
+    "stars": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page"
+  },
+  "Dune: Part Two": {
+    "description": "Paul Atreides, Fremenlerle birleşir ve ailesini yok edenlerden intikam alırken bir mesih kehanetini yerine getirir.",
+    "director": "Denis Villeneuve",
+    "writer": "Denis Villeneuve, Jon Spaihts",
+    "stars": "Timothée Chalamet, Zendaya, Rebecca Ferguson"
+  },
+  "Parasite": {
+    "description": "Açgözlülük ve sınıf ayrımı, zengin Park ailesi ile yoksul Kim ailesi arasındaki simbiyotik ilişkiyi tehdit eder.",
+    "director": "Bong Joon Ho",
+    "writer": "Bong Joon Ho, Han Jin-won",
+    "stars": "Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong"
+  },
+  "Léon: The Professional": {
+    "description": "12 yaşındaki Mathilda, ailesi öldürüldükten sonra profesyonel bir suikastçı olan Léon tarafından isteksizce korunur.",
+    "director": "Luc Besson",
+    "writer": "Luc Besson",
+    "stars": "Jean Reno, Gary Oldman, Natalie Portman"
+  },
+  "Whiplash": {
+    "description": "Umut vadeden bir genç davulcu, acımasız bir eğitmenin yönettiği müzik konservatuvarında hayallerinin peşinden gider.",
+    "director": "Damien Chazelle",
+    "writer": "Damien Chazelle",
+    "stars": "Miles Teller, J.K. Simmons, Paul Reiser"
+  },
+  "The Batman": {
+    "description": "Batman, Gotham Şehri'nin yeraltı dünyasına inerken ardında ipuçları bırakan sadist bir katili takip eder.",
+    "director": "Matt Reeves",
+    "writer": "Matt Reeves, Peter Craig",
+    "stars": "Robert Pattinson, Zoë Kravitz, Paul Dano"
+  },
+  "All Quiet on the Western Front": {
+    "description": "I. Dünya Savaşı sırasında genç bir Alman askerinin batı cephesinde yaşadığı dehşet verici deneyimler ve yaşadığı sıkıntılar.",
+    "director": "Edward Berger",
+    "writer": "Edward Berger, Ian Stokell, Lesley Paterson",
+    "stars": "Felix Kammerer, Albrecht Schuch, Aaron Hilmer"
+  },
+  "American Gangster": {
+    "description": "New York'ta dışlanmış bir polis memuru, gerçek hayattan esinlenilen bu hikâyede Harlem'li uyuşturucu baronu Frank Lucas'ı yakalamakla görevlendirilir.",
+    "director": "Ridley Scott",
+    "writer": "Steven Zaillian",
+    "stars": "Denzel Washington, Russell Crowe, Chiwetel Ejiofor"
+  },
+  "Back to the Future Part II": {
+    "description": "2015 yılına yaptığı ziyaretten sonra, Marty McFly 1985’te yaşanacak felaketleri engellemek için 1955’e tekrar gitmek zorunda kalır.",
+    "director": "Robert Zemeckis",
+    "writer": "Robert Zemeckis, Bob Gale",
+    "stars": "Michael J. Fox, Christopher Lloyd, Lea Thompson"
+  },
+  "Drive": {
+    "description": "Gündüzleri dublörlük, geceleri ise kaçış şoförlüğü yapan bir adam, kocasının yerel bir gangsterden borcu olan komşusuyla yakınlaşınca kendini tehlikeli bir olayın içinde bulur.",
+    "director": "Nicolas Winding Refn",
+    "writer": "Hossein Amini (screenplay), James Sallis (book)",
+    "stars": "Ryan Gosling, Carey Mulligan, Bryan Cranston"
+  },
+  "Hot Fuzz": {
+    "description": "Yetkin bir Londra polis memuru, karanlık sırlarla dolu küçük bir kasabaya atanır.",
+    "director": "Edgar Wright",
+    "writer": "Edgar Wright, Simon Pegg",
+    "stars": "Simon Pegg, Nick Frost, Martin Freeman"
+  },
+  "Predator": {
+    "description": "Orta Amerika ormanlarında görevde olan bir komando ekibi, kendilerini uzaylı bir savaşçının hedefi olarak bulur.",
+    "director": "John McTiernan",
+    "writer": "Jim Thomas, John Thomas",
+    "stars": "Arnold Schwarzenegger, Carl Weathers, Kevin Peter Hall"
+  },
+  "Skyfall": {
+    "description": "James Bond’un sadakati, M’in geçmişinden gelen gölgelerle test edilirken MI6 büyük bir saldırı altına girer.",
+    "director": "Sam Mendes",
+    "writer": "Neal Purvis, Robert Wade, John Logan",
+    "stars": "Daniel Craig, Javier Bardem, Naomie Harris"
+  },
+  "Logan": {
+    "description": "Yakın gelecekte, yorgun düşmüş Logan, yaşlı Profesör X’e bakarken genç bir mutantı karanlık güçlerden korumaya çalışır.",
+    "director": "James Mangold",
+    "writer": "James Mangold, Scott Frank, Michael Green",
+    "stars": "Hugh Jackman, Patrick Stewart, Dafne Keen"
+  },
+  "Joker": {
+    "description": "Gotham’ın parçalanmış toplumunda, akıl sağlığı bozuk bir komedyen devrim ve kanlı suç dolu bir yola sürüklenir.",
+    "director": "Todd Phillips",
+    "writer": "Todd Phillips, Scott Silver",
+    "stars": "Joaquin Phoenix, Robert De Niro, Zazie Beetz"
+  },
+  "The Dark Knight": {
+    "description": "Batman, Joker adlı suç dehasıyla karşı karşıya gelince hem fiziksel hem de zihinsel olarak en büyük sınavını verir.",
+    "director": "Christopher Nolan",
+    "writer": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
+    "stars": "Christian Bale, Heath Ledger, Aaron Eckhart"
+  },
+  "Poor Things": {
+    "description": "Sıra dışı bir bilim insanı tarafından hayata döndürülen Bella Baxter, bir avukatla birlikte kıtalar arası çılgın bir maceraya atılır.",
+    "director": "Yorgos Lanthimos",
+    "writer": "Tony McNamara, Alasdair Gray (novel)",
+    "stars": "Emma Stone, Mark Ruffalo, Willem Dafoe"
+  },
+  "War for the Planet of the Apes": {
+    "description": "Caesar ve maymunları, acımasız bir albayın liderliğindeki insan ordusuyla ölümcül bir savaşa girmek zorunda kalır.",
+    "director": "Matt Reeves",
+    "writer": "Mark Bomback, Matt Reeves",
+    "stars": "Andy Serkis, Woody Harrelson, Steve Zahn"
+  },
+  "A Clockwork Orange": {
+    "description": "Distopik bir gelecekte, bir çete lideri suça karşı deneysel bir rehabilitasyon programına gönüllü olur ama işler kontrolden çıkar.",
+    "director": "Stanley Kubrick",
+    "writer": "Stanley Kubrick, Anthony Burgess (novel)",
+    "stars": "Malcolm McDowell, Patrick Magee, Michael Bates"
+  },
+  "Top Gun: Maverick": {
+    "description": "30 yılı aşkın hizmetin ardından, Maverick hâlâ sınırları zorlayan bir savaş pilotudur ve Top Gun mezunlarını eğitmektedir.",
+    "director": "Joseph Kosinski",
+    "writer": "Ehren Kruger, Eric Warren Singer, Christopher McQuarrie",
+    "stars": "Tom Cruise, Miles Teller, Jennifer Connelly"
+  },
+  "Spider-Man: No Way Home": {
+    "description": "Peter Parker, Spider-Man kimliğinin yeniden gizlenmesi için Doctor Strange’den yardım ister, ancak bu istek çoklu evrenin çarpışmasına yol açar.",
+    "director": "Jon Watts",
+    "writer": "Chris McKenna, Erik Sommers, Stan Lee (based on Marvel comics)",
+    "stars": "Tom Holland, Zendaya, Benedict Cumberbatch"
+  },
+  "Casino": {
+    "description": "Las Vegas’taki bir kumarhanede geçen bu hikâyede, iki gangster ve bir gösterişli eş arasında para, güç, ihanet ve cinayet ön plandadır.",
+    "director": "Martin Scorsese",
+    "writer": "Nicholas Pileggi, Martin Scorsese",
+    "stars": "Robert De Niro, Sharon Stone, Joe Pesci"
+  },
+  "Die Hard": {
+    "description": "Bir NYPD polisi, karısını ve diğer rehineleri bir Noel partisinde Alman teröristlerden kurtarmaya çalışır.",
+    "director": "John McTiernan",
+    "writer": "Jeb Stuart, Steven E. de Souza",
+    "stars": "Bruce Willis, Alan Rickman, Bonnie Bedelia"
+  },
+  "Kill Bill: Volume 1": {
+    "description": "Eski bir suikastçı, kendisini öldürmeye çalışan eski ekip arkadaşlarından intikam almaya başlar; hedefindeki ilk grup Öldürücü Engerekler Suikast Timi’dir.",
+    "director": "Quentin Tarantino",
+    "writer": "Quentin Tarantino, Q & U (characters)",
+    "stars": "Uma Thurman, Lucy Liu, Vivica A. Fox"
+  },
+  "Indiana Jones and the Last Crusade": {
+    "description": "Indiana Jones, Kutsal Kase’yi ararken ortadan kaybolan arkeolog babasını kurtarmak için yola çıkar.",
+    "director": "Steven Spielberg",
+    "writer": "Jeffrey Boam, George Lucas (story), Menno Meyjes (story)",
+    "stars": "Harrison Ford, Sean Connery, Alison Doody"
+  },
+  "Taxi Driver": {
+    "description": "Zihinsel olarak dengesiz bir savaş gazisi, New York'ta taksi şoförlüğü yapmaya başlar ve çevresindeki yozlaşma ve sefalet, şiddete yönelme dürtüsünü besler.",
+    "director": "Martin Scorsese",
+    "writer": "Paul Schrader",
+    "stars": "Robert De Niro, Jodie Foster, Cybill Shepherd"
+  },
+  "Oppenheimer": {
+    "description": "J. Robert Oppenheimer’ın II. Dünya Savaşı sırasında atom bombasının geliştirilmesindeki rolünü anlatan hikâye.",
+    "director": "Christopher Nolan",
+    "writer": "Christopher Nolan, Kai Bird, Martin J. Sherwin",
+    "stars": "Cillian Murphy, Emily Blunt, Robert Downey Jr."
+  },
+  "Toy Story": {
+    "description": "Bir kovboy oyuncağı, bir çocuğun odasında yeni bir astronot figürünün en sevilen oyuncak haline gelmesiyle tehdit altında hisseder ve kıskançlık duyar.",
+    "director": "John Lasseter",
+    "writer": "John Lasseter, Pete Docter, Andrew Stanton",
+    "stars": "Tom Hanks, Tim Allen, Don Rickles"
+  },
+  "Up": {
+    "description": "Yaşlı bir adam, Güney Amerika’nın vahşi doğasını görmek için evine binlerce balon bağlar; ancak yolculuğa farkında olmadan küçük bir çocuk da katılır.",
+    "director": "Pete Docter, Bob Peterson",
+    "writer": "Pete Docter, Bob Peterson, Tom McCarthy",
+    "stars": "Edward Asner, Jordan Nagai, John Ratzenberger"
+  },
+  "Oldboy": {
+    "description": "Kaçırılıp on beş yıl boyunca hapsedilen Oh Dae-Su serbest bırakılır ve beş gün içinde onu esir alan kişiyi bulmak zorundadır.",
+    "director": "Park Chan-wook",
+    "writer": "Park Chan-wook, Garon Tsuchiya, Nobuaki Minegishi",
+    "stars": "Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong"
+  },
+  "The Hateful Eight": {
+    "description": "İç Savaş sonrası Wyoming’de, bir grup ödül avcısı kar fırtınasından korunmak için bir kulübeye sığınır ama ihanet ve entrika dolu bir komplonun içine düşer.",
+    "director": "Quentin Tarantino",
+    "writer": "Quentin Tarantino",
+    "stars": "Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh"
+  },
+  "Captain America: Civil War": {
+    "description": "Avengers ekibine hesap verebilirlik getirilmesi yönündeki siyasi baskılar, süper kahramanları ikiye böler.",
+    "director": "Anthony Russo, Joe Russo",
+    "writer": "Christopher Markus, Stephen McFeely",
+    "stars": "Chris Evans, Robert Downey Jr., Scarlett Johansson"
+  },
+  "Star Wars: The Force Awakens": {
+    "description": "Galaktik İmparatorluğun yenilgisinden otuz yıl sonra, Birinci Düzen adlı yeni bir tehdit ortaya çıkar.",
+    "director": "J.J. Abrams",
+    "writer": "Lawrence Kasdan, J.J. Abrams, Michael Arndt",
+    "stars": "Daisy Ridley, John Boyega, Harrison Ford"
+  },
+  "Get Out": {
+    "description": "Genç bir Afrikalı-Amerikalı, beyaz kız arkadaşının ailesini hafta sonu ziyaret ettiğinde, içindeki tedirginlik rahatsız edici bir gerçeğe dönüşür.",
+    "director": "Jordan Peele",
+    "writer": "Jordan Peele",
+    "stars": "Daniel Kaluuya, Allison Williams, Bradley Whitford"
+  },
+  "Dunkirk": {
+    "description": "Belçika, İngiliz İmparatorluğu ve Fransız askerleri, Alman ordusu tarafından kuşatılır ve şiddetli bir savaş sırasında tahliye edilmeye çalışılır.",
+    "director": "Christopher Nolan",
+    "writer": "Christopher Nolan",
+    "stars": "Fionn Whitehead, Barry Keoghan, Mark Rylance"
+  },
+  "The Bourne Identity": {
+    "description": "Balıkçılar tarafından yaralı halde denizden kurtarılan ve hafızasını kaybetmiş bir adam, kimliğini geri kazanmak ve suikastçılardan kaçmak için mücadele eder.",
+    "director": "Doug Liman",
+    "writer": "Tony Gilroy, W. Blake Herron, Robert Ludlum (novel)",
+    "stars": "Matt Damon, Franka Potente, Chris Cooper"
+  },
+  "The Social Network": {
+    "description": "Facebook’un kurucularının hikâyesi ve platformun yükselişiyle ortaya çıkan davaları konu alır.",
+    "director": "David Fincher",
+    "writer": "Aaron Sorkin, Ben Mezrich (book)",
+    "stars": "Jesse Eisenberg, Andrew Garfield, Justin Timberlake"
+  },
+  "A Quiet Place": {
+    "description": "Kıyamet sonrası bir dünyada, bir aile, aşırı hassas işitmeye sahip yaratıklardan saklanmak için sessizlik içinde yaşamak zorundadır.",
+    "director": "John Krasinski",
+    "writer": "Bryan Woods, Scott Beck, John Krasinski",
+    "stars": "Emily Blunt, John Krasinski, Millicent Simmonds"
+  },
+  "Training Day": {
+    "description": "Los Angeles'ta görevine yeni başlayan bir polis, ilk gününde göründüğü gibi olmayan yozlaşmış bir dedektifle devriyeye çıkar.",
+    "director": "Antoine Fuqua",
+    "writer": "David Ayer",
+    "stars": "Denzel Washington, Ethan Hawke, Scott Glenn"
+  },
+  "The Sixth Sense": {
+    "description": "Sorunlu bir çocuk ölüleri görebildiğini fark eder ve bu konuda yardım almak için içine kapanık bir çocuk psikoloğuna başvurur.",
+    "director": "M. Night Shyamalan",
+    "writer": "M. Night Shyamalan",
+    "stars": "Bruce Willis, Haley Joel Osment, Toni Collette"
+  },
+  "Shutter Island": {
+    "description": "1954’te bir ABD marshallı, suçlular için bir akıl hastanesinden kaçan bir katilin ortadan kaybolmasını araştırır.",
+    "director": "Martin Scorsese",
+    "writer": "Laeta Kalogridis, Dennis Lehane (novel)",
+    "stars": "Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley"
+  },
+  "Snatch": {
+    "description": "Ahlaksız boks organizatörleri, şiddet yanlısı bahisçiler, bir Rus gangster, amatör soyguncular ve sahte Yahudi mücevherciler, çalınmış bir elmasın peşine düşer.",
+    "director": "Guy Ritchie",
+    "writer": "Guy Ritchie",
+    "stars": "Jason Statham, Brad Pitt, Benicio Del Toro"
+  },
+  "The Thing": {
+    "description": "Antarktika’daki bir araştırma ekibi, kurbanlarının şeklini alan bir uzaylı tarafından avlanır.",
+    "director": "John Carpenter",
+    "writer": "Bill Lancaster, John W. Campbell Jr. (story)",
+    "stars": "Kurt Russell, Wilford Brimley, Keith David"
+  },
+  "The Wolf of Wall Street": {
+    "description": "Zengin bir borsa simsarı olan Jordan Belfort’un, yükselişi ve suç ile yozlaşmaya batışıyla sonuçlanan gerçek hikâyesine dayanır.",
+    "director": "Martin Scorsese",
+    "writer": "Terence Winter, Jordan Belfort (book)",
+    "stars": "Leonardo DiCaprio, Jonah Hill, Margot Robbie"
+  },
+  "Green Book": {
+    "description": "İtalyan kökenli bir işçi, turneye çıkan siyahi klasik müzisyen için şoförlük yapmaya başlar ve birlikte Amerika’nın güneyinde yolculuk ederler.",
+    "director": "Peter Farrelly",
+    "writer": "Nick Vallelonga, Brian Hayes Currie, Peter Farrelly",
+    "stars": "Viggo Mortensen, Mahershala Ali, Linda Cardellini"
+  },
+  "1917": {
+    "description": "I. Dünya Savaşı sırasında iki İngiliz askeri, ölümcül bir saldırıyı durdurmak için düşman hattının derinliklerine mesaj ulaştırmakla görevlendirilir.",
+    "director": "Sam Mendes",
+    "writer": "Sam Mendes, Krysty Wilson-Cairns",
+    "stars": "George MacKay, Dean-Charles Chapman, Mark Strong"
+  },
+  "The Father": {
+    "description": "Yaşlanan bir adam, kızının yardımını reddederken zamanla sevdiklerinden, zihninden ve gerçeklikten şüphe etmeye başlar.",
+    "director": "Florian Zeller",
+    "writer": "Christopher Hampton, Florian Zeller",
+    "stars": "Anthony Hopkins, Olivia Colman, Mark Gatiss"
+  },
+  "Fargo": {
+    "description": "Bir araba satıcısı karısını kaçırmak için iki suçluyla anlaşır, ancak plan felakete dönüşür ve hamile bir polis tarafından soruşturulur.",
+    "director": "Joel Coen",
+    "writer": "Joel Coen, Ethan Coen",
+    "stars": "William H. Macy, Frances McDormand, Steve Buscemi"
+  },
+  "Harry Potter and the Deathly Hallows: Part 2": {
+    "description": "Harry, Ron ve Hermione, Voldemort’u yok etmek için kalan Hortkulukları bulmak üzere tehlikeli bir yolculuğa çıkar.",
+    "director": "David Yates",
+    "writer": "Steve Kloves, J.K. Rowling",
+    "stars": "Daniel Radcliffe, Emma Watson, Rupert Grint"
+  },
+  "Jaws": {
+    "description": "Cape Cod açıklarındaki bir sahil kasabasında katil bir köpekbalığı dehşet saçar ve yerel şerifi bu canavarı avlamaya zorlar.",
+    "director": "Steven Spielberg",
+    "writer": "Peter Benchley, Carl Gottlieb",
+    "stars": "Roy Scheider, Robert Shaw, Richard Dreyfuss"
+  },
+  "Pirates of the Caribbean": {
+    "description": "Demirci Will Turner, lanetli korsanlardan sevdiği kadını kurtarmak için eksantrik korsan Jack Sparrow ile iş birliği yapar.",
+    "director": "Gore Verbinski",
+    "writer": "Ted Elliott, Terry Rossio",
+    "stars": "Johnny Depp, Orlando Bloom, Keira Knightley"
+  },
+  "Full Metal Jacket": {
+    "description": "Pragmatik bir ABD deniz piyadesi, Vietnam Savaşı'nın askerler üzerindeki insanlık dışı etkilerini gözlemler.",
+    "director": "Stanley Kubrick",
+    "writer": "Stanley Kubrick, Michael Herr, Gustav Hasford",
+    "stars": "Matthew Modine, R. Lee Ermey, Vincent D'Onofrio"
+  },
+  "Interstellar": {
+    "description": "Bir grup kaşif, insanlığın hayatta kalmasını sağlamak için uzaydaki bir solucan deliğinden geçerek bilinmeze yol alır.",
+    "director": "Christopher Nolan",
+    "writer": "Jonathan Nolan, Christopher Nolan",
+    "stars": "Matthew McConaughey, Anne Hathaway, Jessica Chastain"
+  },
+  "Isle of Dogs": {
+    "description": "Japonya’da geçen hikâyede, bir çocuk, köpek gribi salgını nedeniyle karantinaya alınan bir adada kayıp köpeğini arar.",
+    "director": "Wes Anderson",
+    "writer": "Wes Anderson, Roman Coppola, Jason Schwartzman",
+    "stars": "Bryan Cranston, Koyu Rankin, Edward Norton"
+  },
+  "Sound of Metal": {
+    "description": "Heavy metal davulcusu bir müzisyen, işitme duyusunu kaybetmeye başlayınca hayatı altüst olur.",
+    "director": "Darius Marder",
+    "writer": "Darius Marder, Abraham Marder",
+    "stars": "Riz Ahmed, Olivia Cooke, Paul Raci"
+  },
+  "Apollo 13": {
+    "description": "NASA, uzay aracında yaşanan büyük hasarın ardından Apollo 13 ekibini güvenli bir şekilde Dünya’ya döndürmek için strateji geliştirmek zorundadır.",
+    "director": "Ron Howard",
+    "writer": "William Broyles Jr., Al Reinert",
+    "stars": "Tom Hanks, Kevin Bacon, Bill Paxton"
+  },
+  "Black Hawk Down": {
+    "description": "ABD askerleri, Somali’de bir savaş ağasını yakalamak üzere çıktıkları görevde şiddetli çatışmaların içine düşer.",
+    "director": "Ridley Scott",
+    "writer": "Ken Nolan",
+    "stars": "Josh Hartnett, Ewan McGregor, Tom Sizemore"
+  },
+  "Ex Machina": {
+    "description": "Genç bir programcı, yapay zekayla ilgili çığır açıcı bir deneyde yer almak üzere seçilir.",
+    "director": "Alex Garland",
+    "writer": "Alex Garland",
+    "stars": "Alicia Vikander, Domhnall Gleeson, Oscar Isaac"
+  },
+  "Halloween": {
+    "description": "Cadılar Bayramı gecesi kız kardeşini öldüren Michael Myers, 15 yıl sonra kaçar ve memleketine geri döner.",
+    "director": "John Carpenter",
+    "writer": "John Carpenter, Debra Hill",
+    "stars": "Donald Pleasence, Jamie Lee Curtis, Tony Moran"
+  },
+  "Home Alone": {
+    "description": "Sekiz yaşındaki yaramaz bir çocuk, ailesi tarafından evde unutulunca evi iki hırsıza karşı korumak zorunda kalır.",
+    "director": "Chris Columbus",
+    "writer": "John Hughes",
+    "stars": "Macaulay Culkin, Joe Pesci, Daniel Stern"
+  },
+  "Ocean's Eleven": {
+    "description": "Danny Ocean ve on bir suç ortağı, aynı anda üç Las Vegas kumarhanesini soymayı planlar.",
+    "director": "Steven Soderbergh",
+    "writer": "Ted Griffin",
+    "stars": "George Clooney, Brad Pitt, Julia Roberts"
+  },
+  "Rocky": {
+    "description": "Küçük çaplı bir boksör, ağır sıklet şampiyonuna karşı dövüşme şansı elde eder ve tüm gücüyle mücadele eder.",
+    "director": "John G. Avildsen",
+    "writer": "Sylvester Stallone",
+    "stars": "Sylvester Stallone, Talia Shire, Burt Young"
+  },
+  "Rush": {
+    "description": "1970’lerin acımasız Formula 1 rekabetinde James Hunt ile Niki Lauda arasındaki efsanevi mücadele.",
+    "director": "Ron Howard",
+    "writer": "Peter Morgan",
+    "stars": "Chris Hemsworth, Daniel Brühl, Olivia Wilde"
+  },
+  "Ratatouille": {
+    "description": "Yemek yapabilen bir fare, ünlü bir restoranda genç bir mutfak çalışanıyla sıradışı bir iş birliğine girer.",
+    "director": "Brad Bird, Jan Pinkava",
+    "writer": "Brad Bird, Jan Pinkava, Jim Capobianco",
+    "stars": "Patton Oswalt, Ian Holm, Lou Romano"
+  },
+  "The Terminator": {
+    "description": "Bir cyborg suikastçı, gelecekte insanlığın lideri olacak çocuğun annesini öldürmek için geçmişe gönderilir.",
+    "director": "James Cameron",
+    "writer": "James Cameron, Gale Anne Hurd, William Wisher",
+    "stars": "Arnold Schwarzenegger, Linda Hamilton, Michael Biehn"
+  },
+  "V for Vendetta": {
+    "description": "Gelecekteki baskıcı İngiltere’de, gizemli bir özgürlük savaşçısı, genç bir kadının da yardımıyla hükümeti devirmeye çalışır.",
+    "director": "James McTeigue",
+    "writer": "Lana Wachowski, Lilly Wachowski",
+    "stars": "Hugo Weaving, Natalie Portman, Stephen Rea"
+  },
+  "Ford v Ferrari": {
+    "description": "Amerikalı otomobil tasarımcısı Carroll Shelby ve sürücü Ken Miles, devrim niteliğindeki bir yarış arabası üretmek için kurumsal engellerle mücadele eder.",
+    "director": "James Mangold",
+    "writer": "Jez Butterworth, John-Henry Butterworth, Jason Keller",
+    "stars": "Matt Damon, Christian Bale, Jon Bernthal"
+  },
+  "Memories of Murder": {
+    "description": "1986 yılında Güney Kore’nin küçük bir kasabasında, iki dedektif tecavüze uğrayıp öldürülen genç kadınların gizemini çözmeye çalışır.",
+    "director": "Bong Joon Ho",
+    "writer": "Bong Joon Ho, Kwang-rim Kim",
+    "stars": "Kang-ho Song, Kim Sang-kyung, Roe-ha Kim"
+  },
+  "Dune (2021)": {
+    "description": "Soylu bir aile, galaksinin en değerli kaynağı üzerindeki savaşa dahil olurken, varisi gizemli vizyonlarla boğuşur.",
+    "director": "Denis Villeneuve",
+    "writer": "Jon Spaihts, Denis Villeneuve, Eric Roth",
+    "stars": "Timothée Chalamet, Rebecca Ferguson, Oscar Isaac"
+  },
+  "Casino Royale": {
+    "description": "James Bond, yüksek riskli bir poker oyununda terörist bir bankacıyı alt etmekle görevlendirilir.",
+    "director": "Martin Campbell",
+    "writer": "Neal Purvis, Robert Wade, Paul Haggis",
+    "stars": "Daniel Craig, Eva Green, Mads Mikkelsen"
+  },
+  "Donnie Darko": {
+    "description": "Sorunlu bir genç, kendisine suç işlemesini söyleyen dev bir tavşan kostümlü adamın halüsinasyonlarıyla mücadele eder.",
+    "director": "Richard Kelly",
+    "writer": "Richard Kelly",
+    "stars": "Jake Gyllenhaal, Jena Malone, Mary McDonnell"
+  },
+  "Guardians of the Galaxy": {
+    "description": "Galaksiyi yok etmeyi planlayan fanatik bir savaşçıyı durdurmak için bir grup galaksiler arası suçlu iş birliği yapar.",
+    "director": "James Gunn",
+    "writer": "James Gunn, Nicole Perlman",
+    "stars": "Chris Pratt, Zoe Saldana, Dave Bautista"
+  },
+  "Mad Max: Fury Road": {
+    "description": "Kıyamet sonrası bir çölde, bir kadın zalim bir hükümdara karşı çıkarak memleketini aramak üzere isyan başlatır.",
+    "director": "George Miller",
+    "writer": "George Miller, Brendan McCarthy, Nick Lathouris",
+    "stars": "Tom Hardy, Charlize Theron, Nicholas Hoult"
+  },
+  "Doctor Strange": {
+    "description": "Bir araba kazasının ardından ellerini kullanamaz hale gelen başarılı bir cerrah, gerçekliği tehdit eden karanlık güçlerle savaşmak için mistik sanatları öğrenir.",
+    "director": "Scott Derrickson",
+    "writer": "Jon Spaihts, Scott Derrickson, C. Robert Cargill",
+    "stars": "Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams"
+  },
+  "American Psycho": {
+    "description": "Zengin bir yatırım bankacısı, arkadaş çevresinden gizlediği psikopat kişiliğiyle çifte bir hayat sürer.",
+    "director": "Mary Harron",
+    "writer": "Mary Harron, Guinevere Turner, Bret Easton Ellis",
+    "stars": "Christian Bale, Justin Theroux, Josh Lucas"
+  },
+  "Kick-Ass": {
+    "description": "Genç bir çocuk gerçek bir süper kahraman olmaya karar verir ve bu, benzer maskeli adalet savaşçılarının ortaya çıkmasına neden olur.",
+    "director": "Matthew Vaughn",
+    "writer": "Jane Goldman, Matthew Vaughn",
+    "stars": "Aaron Taylor-Johnson, Nicolas Cage, Chloë Grace Moretz"
+  },
+  "Watchmen": {
+    "description": "Alternatif bir 1985 Amerika’sında maskeli kahramanlar yasa dışı hale gelmiştir; ancak bir cinayet soruşturması onları yeniden bir araya getirir.",
+    "director": "Zack Snyder",
+    "writer": "David Hayter, Alex Tse",
+    "stars": "Jackie Earle Haley, Patrick Wilson, Carla Gugino"
+  },
+  "John Wick: Chapter 4": {
+    "description": "John Wick, Yüksek Masa’yı alt etmenin bir yolunu bulur ancak güçlü müttefikleri olan yeni bir düşmanla yüzleşmek zorundadır.",
+    "director": "Chad Stahelski",
+    "writer": "Shay Hatten, Michael Finch",
+    "stars": "Keanu Reeves, Laurence Fishburne, Donnie Yen"
+  },
+  "Roma": {
+    "description": "1970’lerin başlarında Meksiko City’de orta sınıf bir ailenin hizmetçisinin bir yılını anlatan dramatik hikâye.",
+    "director": "Alfonso Cuarón",
+    "writer": "Alfonso Cuarón",
+    "stars": "Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey"
+  },
+  "Sicario": {
+    "description": "Bir FBI ajanı, ABD-Meksika sınırında giderek tırmanan uyuşturucu savaşında görev almak üzere seçilir.",
+    "director": "Denis Villeneuve",
+    "writer": "Taylor Sheridan",
+    "stars": "Emily Blunt, Josh Brolin, Benicio Del Toro"
+  },
+  "Once Upon a Time in Hollywood": {
+    "description": "Eskimiş bir televizyon oyuncusu ve onun dublörü, Hollywood’un altın çağının son yıllarında şöhret ve başarı peşinde koşar.",
+    "director": "Quentin Tarantino",
+    "writer": "Quentin Tarantino",
+    "stars": "Leonardo DiCaprio, Brad Pitt, Margot Robbie"
+  },
+  "The Whale": {
+    "description": "Ağır obeziteyle mücadele eden içe kapanık bir İngilizce öğretmeni, yabancılaştığı genç kızıyla yeniden bağ kurmaya çalışır.",
+    "director": "Darren Aronofsky",
+    "writer": "Samuel D. Hunter",
+    "stars": "Brendan Fraser, Sadie Sink, Hong Chau"
+  }
+}
